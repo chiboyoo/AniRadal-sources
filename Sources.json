@@ -1,0 +1,23 @@
+[
+  {"name": "9Anime", "baseUrl": "https://9anime.to/search?keyword=", "type": "anime"},
+  {"name": "GogoAnime", "baseUrl": "https://gogoanime.com/search?keyword=", "type": "anime"},
+  {"name": "Zoro", "baseUrl": "https://zoro.to/search?keyword=", "type": "anime"},
+  {"name": "AniWave", "baseUrl": "https://aniwave.to/filter?keyword=", "type": "anime"},
+  {"name": "KickAssAnime", "baseUrl": "https://kickassanime.am/search?q=", "type": "anime"},
+  {"name": "AnimePahe", "baseUrl": "https://animepahe.com/search?q=", "type": "anime"},
+  {"name": "AnimeKisa", "baseUrl": "https://animekisa.tv/search?q=", "type": "anime"},
+  {"name": "AnimeOut", "baseUrl": "https://www.animeout.xyz/?s=", "type": "anime"},
+  {"name": "AnimeHeaven", "baseUrl": "https://animeheaven.me/search.php?s=", "type": "anime"},
+  {"name": "WcoAnime", "baseUrl": "https://wcoanime.com/search?q=", "type": "anime"},
+  
+  {"name": "MangaKakalot", "baseUrl": "https://mangakakalot.com/search/story/", "type": "manga"},
+  {"name": "AsuraScans", "baseUrl": "https://asurascans.com/search?q=", "type": "manga"},
+  {"name": "MangaFire", "baseUrl": "https://mangafire.to/filter?keyword=", "type": "manga"},
+  {"name": "MangaDex", "baseUrl": "https://mangadex.org/search?q=", "type": "manga"},
+  {"name": "MangaReader", "baseUrl": "https://mangareader.to/search?keyword=", "type": "manga"},
+  {"name": "MangaPill", "baseUrl": "https://mangapill.com/search?q=", "type": "manga"},
+  {"name": "Bato.to", "baseUrl": "https://bato.to/search?word=", "type": "manga"},
+  {"name": "MangaTown", "baseUrl": "https://www.mangatown.com/search?name=", "type": "manga"},
+  {"name": "Manga18", "baseUrl": "https://manga18.club/search?q=", "type": "manga"},
+  {"name": "MangaBuddy", "baseUrl": "https://mangabuddy.com/search?q=", "type": "manga"}
+]
